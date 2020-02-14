@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.102.167/TankWar/Tank.ipa</string>
+                        <string>https://raw.githubusercontent.com/tankRJ55/Tank/master/Tank.ipa?token=AES756RBIXYDPCWZZPZHMZS6IUUFG</string>
                     </dict>
                 </array>
                 <key>metadata</key>
